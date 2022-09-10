@@ -1,6 +1,6 @@
 ---
 number: 508
-title: Supper Club × The Primeagan - Vim, Streaming, Rust, all Around Interesting Guy
+title: Supper Club × The Primeagen - Vim, Streaming, Rust, all Around Interesting Guy
 date: 1662724800226
 url: https://traffic.libsyn.com/syntax/Syntax_-_508.mp3
 ---
